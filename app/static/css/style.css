@@ -1,0 +1,17 @@
+body{
+    background-color: chocolate;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    font-size: 36pt;
+    text-align: center;
+}
+
+img{
+    width: 400px;
+
+}

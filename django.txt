@@ -1,4 +1,4 @@
-REDES
+﻿REDES
 REST -  não tem estado; o servidor não precisa saber; são independentes
 (post, put, delete, get)
 
@@ -32,10 +32,14 @@ V iew: (faz função que Controller faz em MVC, que é renderizar as coisas no s
 
 Arquivos estaticos: sao arquivos que nao sao dinamicos, ou seja, o django nao vai alterar nada, nao e dinamico
 
-para abrir/criar um projeto com django
-criar a pasta  py -m venv env
-entrar na pasta source env/Scripts/activate
-comando para criar pasta do projeto dentro da env: django-admin startproject nomedoseuprojeto .
+*****para abrir/criar um projeto com django
+
+*****criar a pasta  py -m venv env
+
+*****entrar na pasta source env/Scripts/activate
+
+*****comando para criar pasta do projeto dentro da env: django-admin startproject nomedoseuprojeto .
+
 *esse nomedoseuprojeto nessa linha de cima é o nome que tu quer para sua pasta
 *o ponto no final do comando é para que ele não crie uma pasta a mais
 
